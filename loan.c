@@ -40,4 +40,3 @@ int main(void)
 RVFR
 EE
 FR
-K
