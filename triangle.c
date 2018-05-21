@@ -32,5 +32,4 @@ void triangle(int width, char x){
 }
 
 
-
 l
