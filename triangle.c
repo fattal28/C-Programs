@@ -31,7 +31,7 @@ void triangle(int width, char x){
     return;
 }
 
-h
+
 e
 lw
 qq
