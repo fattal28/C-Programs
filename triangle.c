@@ -33,4 +33,4 @@ void triangle(int width, char x){
 
 h
 e
-l
+lw
