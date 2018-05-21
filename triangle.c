@@ -30,3 +30,5 @@ void triangle(int width, char x){
     }while (counter != 0);
     return;
 }
+
+h
