@@ -32,4 +32,4 @@ printf("\n");
 return;
 }
 
-hellomyname
+hellomynam
