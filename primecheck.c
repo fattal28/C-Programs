@@ -27,5 +27,5 @@ int main(void)
 	return 0;
 }
 
-hello
+ello
 e
