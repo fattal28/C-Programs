@@ -28,4 +28,4 @@ int main(void)
 }
 
 
-ew1
+w1
