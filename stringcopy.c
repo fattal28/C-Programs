@@ -27,3 +27,4 @@ char *copy(char *array){
 	return arraycopy;
 }
 
+hellomyname
