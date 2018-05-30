@@ -27,4 +27,4 @@ char *copy(char *array){
 	return arraycopy;
 }
 
-hellomynam
+hellomyna
